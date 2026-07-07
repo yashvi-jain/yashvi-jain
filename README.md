@@ -1,6 +1,6 @@
 # Hello, I'm Yashvi
 
-🎓A Pre-final year B.Tech (Artificial Intelligence and Data Science) Student in Indian Institute of Technology (IIT) Jodhpur.
+🎓A Pre-final year B.Tech (Artificial Intelligence and Data Science) Student at Indian Institute of Technology (IIT) Jodhpur.
 
 Exploring AI/ML, web development, and strengthening my problem-solving skills through DSA. 
 Passionate about building software that combines AI with practical applications. 
