@@ -5,6 +5,8 @@
 Exploring AI/ML, web development, and strengthening my problem-solving skills through DSA. 
 Passionate about building software that combines AI with practical applications. 
 
+![](https://komarev.com/ghpvc/?username=yashvi-jain)
+
 ## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,py,js" />
